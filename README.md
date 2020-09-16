@@ -1,5 +1,5 @@
 # PP42WS-KiCad-Template
-template to create a PCB for a SUPERTRONIC PP42WS housing
+KiCad template to create a PCB for a SUPERTRONIC PP42WS housing
 
 ![Preview](PP42WS_Template.png)
 

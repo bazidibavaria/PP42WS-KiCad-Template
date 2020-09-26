@@ -1,11 +1,17 @@
 # PP42WS-KiCad-Template
 KiCad template to create a PCB for a SUPERTRONIC PP42WS housing
 
+* housing bottom -> pp42ws_template.kicad_pcb
+* housing cover -> pp42ws_template_cover.kicad_pcb
+
 ![Preview](PP42WS_Template.png)
 
 ## Changelog
 
-### rev1.0 (2020-09-16)
+### 1.0.1 (2020-09-26)
+* (bazidibavaria) added cover template
+
+### 1.0.0 (2020-09-16)
 * (bazidibavaria) created template
 
 ## License
